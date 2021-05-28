@@ -32,7 +32,7 @@ Requirements
   pip install PyQt5-tools
   
   
-  I have also provided the executable of this project incase if you just want to see how it works without installing anything
+  I have also provided the executable of this project incase if you just want to see how it works without installing anything even python is also not required.
   
   download the rar file and extract it
   after that open the extracted folder and double click on the Visualizer.exe file to run the program
