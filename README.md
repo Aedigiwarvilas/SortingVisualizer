@@ -1,6 +1,6 @@
 # SortingVisualizer
 
-This Project is developed to guide you how Sorting Algorithms works with visualizations.
+Mostly all of us know various Sorting  Algorithms.Sometimes we may find difficulty in understanding how the comparisions and swappings are done in various Sorting Algorithms. So to understand these even better I have developed a desktop application using Python through which you can easily visualize the internal implementations of these Algorithms with Graphics and Animations , even you can change the speed of animation for your better understanding
 
 Sorting Algorithms
   
