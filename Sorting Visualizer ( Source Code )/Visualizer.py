@@ -14,7 +14,7 @@ class MainWindow(QMainWindow):
         self.font = QFont()
         self.font.setPointSize(12)
         self.speed = {
-            0: ["0.25x", 2.5],
+            0: ["0.25x", 3],
             1: ["0.5x", 2],
             2: ["0.75x", 1.5],
             3: ["1x", 1],
